@@ -1,0 +1,785 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"strat",
+				"strategy"
+			],
+			[
+				"strate",
+				"strategy_expressions"
+			],
+			[
+				"sta",
+				"strategy"
+			],
+			[
+				"callab",
+				"callables"
+			],
+			[
+				"field",
+				"field_radius"
+			],
+			[
+				"expres",
+				"expression_string"
+			],
+			[
+				"collis",
+				"collision_dir"
+			],
+			[
+				"fiel",
+				"field_radius"
+			],
+			[
+				"account",
+				"account_number"
+			],
+			[
+				"accoun",
+				"account_number"
+			],
+			[
+				"tod",
+				"to_date"
+			],
+			[
+				"chun",
+				"date_chunker"
+			],
+			[
+				"from",
+				"from_date"
+			],
+			[
+				"Util",
+				"UtilitiesKingston"
+			],
+			[
+				"acc",
+				"access_code"
+			],
+			[
+				"doci",
+				"doc_id"
+			],
+			[
+				"index",
+				"index_params"
+			],
+			[
+				"node",
+				"node_breadcrumbs"
+			],
+			[
+				"login",
+				"login_required"
+			],
+			[
+				"acces",
+				"access_levels"
+			],
+			[
+				"nod",
+				"node_breadcrumbs"
+			],
+			[
+				"flas",
+				"flash_form_errors"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "blocks/templates/base.html",
+			"settings":
+			{
+				"buffer_size": 311,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "blocks/static/js/vendor/d3.v3.js",
+			"settings":
+			{
+				"buffer_size": 292342,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "blocks/__init__.py",
+			"settings":
+			{
+				"buffer_size": 87,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "runserver.py",
+			"settings":
+			{
+				"buffer_size": 75,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "blocks/pages.py",
+			"settings":
+			{
+				"buffer_size": 127,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "blocks/xhr.py",
+			"settings":
+			{
+				"buffer_size": 23,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "blocks/templates/main.html",
+			"settings":
+			{
+				"buffer_size": 65,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 217.0,
+		"selected_items":
+		[
+			[
+				"pcdis",
+				"Package Control: Disable Package"
+			],
+			[
+				"package",
+				"Package Control: Disable Package"
+			],
+			[
+				"pci",
+				"Package Control: Install Package"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"pcen",
+				"Package Control: Enable Package"
+			],
+			[
+				"packu",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"pc",
+				"Package Control: Add Repository"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"pcupg",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"packageup",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"packa",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"disable pa",
+				"Package Control: Disable Package"
+			],
+			[
+				"pcon",
+				"Package Control: Disable Package"
+			],
+			[
+				"pcids",
+				"Package Control: Disable Package"
+			],
+			[
+				"pcli",
+				"Package Control: List Packages"
+			],
+			[
+				"pcd",
+				"Package Control: Disable Package"
+			],
+			[
+				"pcid",
+				"Package Control: Disable Package"
+			],
+			[
+				"pcdisable",
+				"Package Control: Disable Package"
+			],
+			[
+				"pcl",
+				"Package Control: List Packages"
+			],
+			[
+				"packac",
+				"Package Control: List Packages"
+			],
+			[
+				"markdown",
+				"Set Syntax: Markdown"
+			],
+			[
+				"pip",
+				"Package Control: Install Package"
+			],
+			[
+				"packip",
+				"Package Control: Install Package"
+			],
+			[
+				"PACKip",
+				"Package Control: Install Package"
+			],
+			[
+				"pakcaip",
+				"Package Control: Install Package"
+			],
+			[
+				"packaip",
+				"Package Control: Install Package"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 435.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/phil/Code/eventline/eventline.js",
+		"/home/phil/Code/Frames/frames/__init__.py",
+		"/home/phil/Code/eventline/demo.html",
+		"/home/phil/Code/tweetwars/parser.js",
+		"/home/phil/Code/tweetwars/battle.js",
+		"/home/phil/Code/tweetwars/battle.css",
+		"/home/phil/Code/Frames/frames/tests/test_node_views.py",
+		"/home/phil/Code/Frames/frames/sources/utilities_kingston.py",
+		"/home/phil/Code/Frames/frames/sources/scrapers/__init__.py",
+		"/home/phil/Code/Frames/frames/tests/test_sources/test_utilities_kingston.py",
+		"/home/phil/Code/Frames/frames/fixtures/__init__.py",
+		"/home/phil/Code/Frames/frames/sources/utilitieskingston.py",
+		"/home/phil/.config/sublime-text-3/Packages/User/SublimeLinter.sublime-settings",
+		"/home/phil/.config/sublime-text-3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/home/phil/.config/sublime-text-3/Packages/User/JSON.sublime-settings",
+		"/home/phil/Code/Frames/frames/tests/test_sources/__init__.py",
+		"/home/phil/Code/Frames/frames/sources/__init__.py",
+		"/home/phil/Code/Frames/manage.py",
+		"/home/phil/Code/Frames/frames/fixtures/db_fixtures.py",
+		"/home/phil/Code/Frames/frames/fixtures/users_fixtures.py",
+		"/home/phil/Code/Frames/frames/tests/test_db.py",
+		"/home/phil/Code/Frames/.gitignore",
+		"/home/phil/Code/Frames/untitled.sublime-workspace",
+		"/home/phil/Code/Frames/frames/organizations.py",
+		"/home/phil/Code/Frames/frames/tests/test_data.py",
+		"/home/phil/Code/Frames/frames/data.py",
+		"/home/phil/Code/parl/gethansard/scrape.py",
+		"/home/phil/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/phil/Downloads/download.xml",
+		"/home/phil/Code/Frames/frames/static/css/timeline.less",
+		"/home/phil/Code/Frames/frames/templates/framed.html",
+		"/home/phil/Code/Frames/frames/tests/test_utils.py",
+		"/home/phil/Code/Frames/frames/utils.py",
+		"/home/phil/Code/Frames/frames/db.py",
+		"/home/phil/Code/Frames/frames/users.py",
+		"/home/phil/Code/Frames/frames/templates/browser/update_field.html",
+		"/home/phil/Code/Frames/frames/templates/browser/field.html",
+		"/home/phil/Code/Frames/frames/templates/browser/add_field.html",
+		"/home/phil/Code/Frames/frames/templates/browser/edit_field.html",
+		"/home/phil/Code/Frames/frames/templates/browser/node.html",
+		"/home/phil/Code/Frames/frames/views.py",
+		"/home/phil/Code/Frames/frames/templates/browser/main.html",
+		"/home/phil/Code/Frames/flskcc.py",
+		"/home/phil/.config/sublime-text-3/Packages/LiveReload/LiveReload.sublime-settings",
+		"/home/phil/.config/sublime-text-3/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
+		"/home/phil/Code/flask-classy/flask_classy.py",
+		"/home/phil/.config/sublime-text-3/Packages/User/MarkdownPreview.sublime-settings",
+		"/home/phil/Code/Frames/frames/templates/browser/hello.md",
+		"/home/phil/Code/Frames/frames/templates/browser/hello.py",
+		"/home/phil/take2/steps.py",
+		"/home/phil/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/phil/Code/Frames/frames/templates/browser/add_node.html",
+		"/home/phil/Code/Frames/frames/templates/browser/edit_node.html",
+		"/home/phil/Code/Frames/frames/templates/browser/remove_node.html"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"[",
+			"strategy_exp",
+			"strategy_t",
+			"cross",
+			"_force[0]",
+			"_r",
+			"</strong>, <strong>",
+			"0.04,",
+			"d3.select('body'",
+			": new ",
+			"compiled",
+			"compile_exp",
+			"\n        {\n            pos: [.5, 0.667],\n            vel: [.1, 0],\n            accel: [0, 0],\n            radius: 0.02,\n            mass: 2,  // Kg\n            strategy: strategy_wrapper(\"0.2\"),\n        },\n        {\n            pos: [.5, -0.667],\n            vel: [.1, 0],\n            accel: [0, 0],\n            radius: 0.02,\n            mass: 2,  // Kg\n            strategy: strategy_wrapper(\"0.2\"),\n        },\n        {\n            pos: [-.5, 0.667],\n            vel: [-.08, 0],\n            accel: [0, 0],\n            radius: 0.02,\n            mass: 2,  // Kg\n            strategy: strategy_wrapper(\"0.2\"),\n        },\n        {\n            pos: [-.5, -0.667],\n            vel: [-.08, 0],\n            accel: [0, 0],\n            radius: 0.02,\n            mass: 2,  // Kg\n            strategy: strategy_wrapper(\"0.2\"),\n        },\n        {\n            pos: [-.5, 0.3],\n            vel: [-.08, 0],\n            accel: [0, 0],\n            radius: 0.02,\n            mass: 2,  // Kg\n            strategy: strategy_wrapper(\"0.2\"),\n        },\n        {\n            pos: [-.5, -0.3],\n            vel: [-.08, 0],\n            accel: [0, 0],\n            radius: 0.02,\n            mass: 2,  // Kg\n            strategy: strategy_wrapper(\"0.2\"),\n        },\n        {\n            pos: [-.1, 0.3],\n            vel: [.08, 0],\n            accel: [0, 0],\n            radius: 0.02,\n            mass: 2,  // Kg\n            strategy: strategy_wrapper(\"0.2\"),\n        },\n        {\n            pos: [-.1, -0.3],\n            vel: [.08, 0],\n            accel: [0, 0],\n            radius: 0.02,\n            mass: 2,  // Kg\n            strategy: strategy_wrapper(\"0.2\"),\n        },\n        {\n            pos: [.3, 0.3],\n            vel: [.1, 0],\n            accel: [0, 0],\n            radius: 0.02,\n            mass: 2,  // Kg\n            strategy: strategy_wrapper(\"0.2\"),\n        },\n        {\n            pos: [.3, -0.3],\n            vel: [.1, 0],\n            accel: [0, 0],\n            radius: 0.02,\n            mass: 2,  // Kg\n            strategy: strategy_wrapper(\"0.2\"),\n        },",
+			"\n        {\n            pos: [-.5, 0.3],\n            vel: [-.08, 0],\n            accel: [0, 0],\n            radius: 0.02,\n            mass: 2,  // Kg\n            strategy: strategy_wrapper(\"0.2\"),\n        },\n        {\n            pos: [-.5, -0.3],\n            vel: [-.08, 0],\n            accel: [0, 0],\n            radius: 0.02,\n            mass: 2,  // Kg\n            strategy: strategy_wrapper(\"0.2\"),\n        },",
+			"\n            radius: 0.005,",
+			"ategy_wrapper(",
+			"\n            vel: [0, 0],",
+			"\n            radius: 0.003,",
+			"\n            radius: 0.001,",
+			"\n            vel: [Math.random()*0.1-0.05, Math.random()*0.1-0.05],",
+			"\"0.2*r^2 + 0.01 - r| - 0.1*r'\"",
+			"vel: [0, .05],",
+			"radius: 0.04,",
+			"Math.random()*.9-.45",
+			"Math.random()*.5-.2",
+			"Math.random()*.5-.25,",
+			"Math.random()*.3-.15",
+			"m()*.3-1.5",
+			"Math.random()*.3-1.5",
+			"c",
+			"strat",
+			"tan_norm",
+			"pos_norm",
+			"\n        retu",
+			"{\n        re",
+			"field_radius",
+			"comple_expression",
+			"expression",
+			"compile_strategy",
+			"logarr",
+			"ival",
+			"];\n}",
+			"}\nvar",
+			"compile_strategy(c_in_strategy)",
+			"operator_functions",
+			"operator_precedence",
+			"\n        return function(cx)",
+			"rhs",
+			"lhs",
+			"context",
+			"t",
+			"parse_strategy",
+			"[.3",
+			"Math.pow(dist, 2)*1.5",
+			"0.5",
+			"Math.random()*.5",
+			"player_gro",
+			"radius",
+			"player_radi",
+			"mass",
+			"no state",
+			"this.tokenized;",
+			"et_next(",
+			"(t",
+			"state_name",
+			"state_nname",
+			"==",
+			"current_index",
+			"expression_string",
+			"o",
+			"*",
+			"\n    },",
+			"\n        return function(n) {",
+			") {\n",
+			") {",
+			"return function(n) { ",
+			"console",
+			"feeder",
+			"current_index",
+			"original_expression",
+			"hdoub",
+			" return fn;",
+			"; return fn;",
+			"fn =",
+			"  return fn;",
+			"  '",
+			"\n            alive: true,",
+			"num_players",
+			"p2n",
+			"ip1",
+			"p2on",
+			"diff",
+			"offset",
+			"pz",
+			"p2",
+			"p1",
+			"collision",
+			"offset",
+			"cross",
+			"pos",
+			"150,",
+			"120,",
+			"80,",
+			"25",
+			"20",
+			"33",
+			"consol",
+			"x =",
+			"players_circles",
+			"vel",
+			"pos",
+			"pos1",
+			"pos",
+			"add",
+			"norm",
+			"norm_pos",
+			"sum",
+			"mass",
+			"dist_traveled",
+			".x",
+			"players",
+			"print",
+			"ccount_number=\"",
+			"utilities_kingston.Source",
+			"garbage_endings",
+			"'sources.utili",
+			"print",
+			"num"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"url_for('FieldView:remove'",
+			"slug=",
+			"url_for('FieldView:edit",
+			"url_for('NodeView:"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "blocks/templates/base.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 311,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								209,
+								209
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "blocks/static/js/vendor/d3.v3.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 292342,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "blocks/__init__.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 87,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								86,
+								86
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "runserver.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 75,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								75,
+								75
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "blocks/pages.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 127,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								45,
+								45
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "blocks/xhr.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 23,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11,
+								11
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "blocks/templates/main.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 65,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								65,
+								65
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 333.0
+	},
+	"project": "blocks.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 139.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}
