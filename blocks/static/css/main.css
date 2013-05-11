@@ -3,15 +3,65 @@ body {
   background: #333;
   color: #ccc;
 }
+.pattern {
+  position: relative;
+  padding: 1px;
+}
+.cols {
+  position: absolute;
+  top: 0;
+  left: 19px;
+}
+.rows {
+  position: absolute;
+  top: 19px;
+  left: 1px;
+}
+.rows * {
+  display: block;
+}
+.grid {
+  margin: 18px 0 0 18px;
+}
+.number-widget button,
+.number-widget span {
+  padding: 0;
+  font-size: 10px;
+  text-align: center;
+  border: none;
+  color: #fff;
+}
+.number-widget button {
+  height: 15px;
+  line-height: 15px;
+  width: 15px;
+  background: #777;
+}
+.number-widget button:hover {
+  background: #999;
+}
+.number-widget button:active {
+  background: #666;
+}
+.number-widget span {
+  height: 7.5px;
+  display: none;
+}
+.states span {
+  display: inline-block;
+}
+.states:before {
+  content: "states: ";
+}
 .state-0 {
-  fill: orange;
+  fill: #c43b3b;
 }
 .state-1 {
-  fill: red;
+  fill: #c4803b;
 }
 .state-2 {
-  fill: yellow;
+  fill: #c4c43b;
 }
 .state-3 {
-  fill: green;
+  fill: #80c43b;
 }

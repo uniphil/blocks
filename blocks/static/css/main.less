@@ -1,23 +1,82 @@
 @import "normalize.css";
 @import "mixins";
 
+@button: 15px;
+@gutter: 3px;
+@pad: 1px;
+
 body {
     background: #333;
     color: #ccc;
 }
 
-#board {
+.pattern {
+    position: relative;
+    padding: @pad;
+}
+
+.cols {
+    position: absolute;
+    top: 0;
+    left: @pad + @button + @gutter;
+}
+.rows {
+    position: absolute;
+    top: @pad + @button + @gutter;
+    left: @pad;
+    * {
+        display: block;
+    }
+}
+.grid {
+    margin: @button + @gutter 0 0 @button + @gutter;
+}
+
+.number-widget {
+    button,
+    span {
+        padding: 0;
+        font-size: @button/1.5;
+        text-align: center;
+        border: none;
+        color: #fff;
+    }
+    button {
+        height: @button;
+        line-height: @button;
+        width: @button;
+        background: #777;
+        &:hover {
+            background: #999;
+        }
+        &:active {
+            background: #666;
+        }
+    }
+    span {
+        height: @button/2;
+        display: none;
+    }
+}
+
+.states {
+    span {
+        display: inline-block;
+    }
+    &:before {
+        content: "states: ";
+    }
 }
 
 .state-0 {
-    fill: orange;
+    fill: hsl(0, 54%, 50%);
 }
 .state-1 {
-    fill: red;
+    fill: hsl(30, 54%, 50%);
 }
 .state-2 {
-    fill: yellow;
+    fill: hsl(60, 54%, 50%);
 }
 .state-3 {
-    fill: green;
+    fill: hsl(90, 54%, 50%);
 }
